@@ -5,4 +5,9 @@
 - It has a light and dark mode
 
 # Preview
-![Screenshot 2025-04-05 113521](https://github.com/user-attachments/assets/9296a879-ee23-4afa-bbd5-ada2558e9d9c)
+### Dark
+![image](https://github.com/user-attachments/assets/a05d4df9-34d0-4c35-8529-1e17e6db7b6c)
+### Light
+![image](https://github.com/user-attachments/assets/3b7bebd7-7672-4bea-8b90-e46d0e266e56)
+
+
