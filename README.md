@@ -1,6 +1,6 @@
 
-# Javascript Age Caclulator By SG
-- A basic age Caclulator
+# Javascript Caclulator By SG
+- A basic Caclulator
 - It has a frontend with a ui 
 - It has a light and dark mode
 
