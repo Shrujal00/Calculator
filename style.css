@@ -25,7 +25,7 @@ body{
 }
 
 .calculator{
-    border: solid 5px rgb(0, 109, 128);
+    border: solid 5px rgb(221, 221, 0);
     border-radius: 10px;
     padding: 10px;
 }
@@ -33,7 +33,7 @@ body{
 .calculator form input{
     background-color: black;
     color: white;
-    border: solid 2px rgb(0, 98, 128);
+    border: solid 2px rgb(170, 200, 1);
     outline: 0;
     height: 60px;
     width: 60px;
@@ -44,11 +44,10 @@ body{
 }
 
 .calculator form input:hover{
-    background-color: rgba(0, 120, 175, 0.558);
+    background-color: rgba(170, 200, 1, 0.558);
 }
 
 form .display{
-
     display: flex;
     justify-content: flex-end;
 }
